@@ -1,4 +1,4 @@
-# testproyectum
+# prueba-proyectum-backend
 
 # 🛠️ CRUD Backend con Spring Boot
 
