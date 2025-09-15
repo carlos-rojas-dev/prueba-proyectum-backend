@@ -18,8 +18,8 @@ Este proyecto es un **backend sencillo en Java Spring Boot** que implementa un C
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/carlos-rojas-dev/testproyectumbackend.git
-cd testproyectumbackend
+git clone https://github.com/carlos-rojas-dev/prueba-proyectum-backend.git
+cd prueba-proyectum-backend
 
 ```
 #### 2️⃣ Compilar y ejecutar con Maven
@@ -62,23 +62,17 @@ Authorization: Bearer TU_TOKEN_AQUI
 ### 👤 Usuarios
 
  -  POST /auth/register → Registrar un nuevo usuario
-
  - POST /auth/login → Iniciar sesión y obtener token
 
 ### 🛒 Productos (protegidos con token)
 
  -  GET /productos → Listar productos
-
  -  POST /productos → Crear producto
-
  -  PUT /productos/{id} → Actualizar producto
-
  -  DELETE /productos/{id} → Eliminar producto 
-
 
 ## 🧪 Pruebas Automáticas
 Puedes ejecutar las pruebas con:
-
 
 ```  bash 
 mvn test
@@ -87,11 +81,8 @@ mvn test
 Estas pruebas:
 
 - Verifican el **login** y la generación de token.
-
 - Validan la creación y listado de productos.
-
 - Usan **MockMvc** para simular peticiones HTTP.
-
 - Imprimen información en **colores** en la consola para facilitar la depuración.
 
 ## 🛠️ Configuración de Base de Datos
