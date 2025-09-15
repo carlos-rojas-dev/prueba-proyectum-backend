@@ -1,0 +1,14 @@
+c:\java\CRUD\src\main\java\com\testproyectum\crud\config\CorsConfig.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\controller\AuthController.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\controller\ProductoController.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\controller\UsuarioController.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\CrudUsuariosApplication.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\dto\LoginResponse.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\dto\UsuarioDTO.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\model\Producto.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\model\Usuario.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\repository\ProductoRepository.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\repository\UsuarioRepository.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\security\JwtFilter.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\security\JwtUtil.java
+c:\java\CRUD\src\main\java\com\testproyectum\crud\SecurityConfig.java
